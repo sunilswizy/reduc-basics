@@ -1,0 +1,8 @@
+li {
+    list-style-type: none;
+}
+
+.list-items{
+    margin-top: 10px;
+    font-size: 15px;
+}

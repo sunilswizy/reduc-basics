@@ -1,0 +1,8 @@
+
+// instead of action normally in typescript we can use enum
+
+export enum ActionTypes {
+    SEARCH_REPOSITORIES = 'search_repositories',
+    SEARCH_REPOSITORIES_SUCCESS = 'search_repositories_success',
+    SEARCH_REPOSITORIES_ERROR = 'search_repositories_error'
+}
